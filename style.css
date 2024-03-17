@@ -111,6 +111,10 @@ h1 {
         height: 135px;
         font-size: 18px;
     }
+    .imagen-izquierda,
+    .imagen-derecha {
+        width: 60px; 
+    }
 }
 
 @media (max-width: 480px) {
